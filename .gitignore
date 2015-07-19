@@ -1,0 +1,11 @@
+# Ignore everything
+*
+.ipynb_checkpoints
+
+# but not
+
+!.gitignore
+!README.md
+!*.ipynb
+!*.py
+
